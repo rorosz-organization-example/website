@@ -2,6 +2,6 @@
 
 This is a really awesome website
 
-Edit on eample branch
+Now editing on update-readme branch
 
-Now edting on update-readme branch
+Updated locally
